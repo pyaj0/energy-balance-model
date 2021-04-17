@@ -1,4 +1,4 @@
-# Welcome to GitHub Desktop!
+# Energy Balance Model
 
 I wrote this notebook for a project on computer modeling of complex system application to environmental management.
 
