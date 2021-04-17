@@ -1,6 +1,6 @@
 # Energy Balance Model
 
-I wrote this notebook for a project on computer modeling of complex system application to environmental management.
+I wrote this notebook for a project on a course of computer modeling of complex system application to environmental management.
 
 I this notebook, you could learn the following skills:
 
